@@ -1,0 +1,13 @@
+{
+  "name": "pro-auto-voice-backend",
+  "version": "1.0.0",
+  "description": "Backend for Pro Auto Voice Android app (Vercel serverless)",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "openai": "^4.40.0",
+    "node-fetch": "^2.7.0",
+    "busboy": "^1.6.0"
+  }
+}
